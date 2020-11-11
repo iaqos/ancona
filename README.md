@@ -1,0 +1,2 @@
+# ancona
+IAQOS-ancona è un’intelligenza artificiale di quartiere che, partendo semplicemente da un titolo di fantasia immesso da un utente, produce articoli di giornale visionari, immaginando e raccontando futuri possibili (e impossibili) per la città. Tecnicamente, IAQOS-ancona utilizza tecniche di apprendimento profondo (deep learning), branca del machine learning che si basa su architetture informatiche molto potenti e complesse, chiamate reti neurali.
