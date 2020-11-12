@@ -1,7 +1,7 @@
 # IAQOS-ancona
 [IAQOS-ancona](https://iaqos.sineglossa.it/) è un’intelligenza artificiale di quartiere che, partendo semplicemente da un titolo di fantasia immesso da un utente, produce articoli di giornale visionari, immaginando e raccontando futuri possibili (e impossibili) per la città. Tecnicamente, IAQOS-ancona utilizza tecniche di apprendimento profondo (deep learning), branca del machine learning che si basa su architetture informatiche molto potenti e complesse, chiamate reti neurali.
 
-## Magia? No, statistica!
+## Ma come fa a imparare?
 
 La branca dell’intelligenza artificiale che tratta il linguaggio naturale è detta natural language processing e IAQOS-ancona, in particolare, appartiene alla categoria di intelligenze artificiali, chiamate [modelli linguistici](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), che hanno lo scopo di comprendere e generare testi in un linguaggio il più possibile vicino a quello naturale. Strumenti come il suggeritore del tuo telefono o il chatbot della tua banca, per esempio, molto probabilmente utilizzano modelli linguistici per molti aspetti simili a quello che sta alla base di IAQOS. 
 
@@ -11,7 +11,7 @@ La branca dell’intelligenza artificiale che tratta il linguaggio naturale è d
 Semplificando, possiamo dire che, data una certa parola o una serie di parole che inserisco io, IAQOS-ancona prevede qual è la parola più probabile che seguirà (e la scrive). Partendo poi da quest’ultima parola, genera la successiva tenendo conto delle precedenti, e così via fino alla fine del testo desiderato. Per fare questo, dovrà aver imparato un vocabolario, cioè quali sono le parole che compongono la lingua italiana, e anche con che regole queste parole si combinano tra loro, in che ordine e con che significati. 
 
 
-## Ma come fa a imparare?
+## Magia? No, statistica!
 
 In informatica, qualsiasi cosa è rappresentata come un numero, comprese le parole. Per rappresentare le parole come numeri, si può per esempio prendere l’intero vocabolario in ordine alfabetico dalla A alla Z e assegnare alla prima parola il numero 1, alla seconda il numero 2, e così via. In questo modo, qualsiasi frase può essere rappresentata da una serie di numeri. Osservando un’enorme quantità di testi, il sistema di apprendimento verrà esposto a delle regolarità, e osserverà per esempio che la sequenza di parole “non + ti + ho + mai + visto + così” (rappresentata, per esempio, dalla serie di numeri 78-98-45-67-123-24) è seguita nel 15% dei casi da 34 (“felice”), nel 13% da 12 (“arrabbiato”), nel 20% da 55 (“poco”), ecc. 
 
