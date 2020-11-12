@@ -17,7 +17,7 @@ Il suo scopo finale sarà quello di imparare qual è la probabilità con cui ogn
 
 ## Un modello per l’italiano e uno per Ancona
 
-Per imparare a scrivere i suoi articoli, l’addestramento di IAQOS ha seguito due fasi. 
+Per imparare a scrivere i suoi articoli, IAQOS ha seguito due fasi di addestramento. 
 
 La [prima fase](https://arxiv.org/abs/2004.14253), realizzata da un [gruppo di ricercatori italiani](https://github.com/LoreDema/GePpeTto), è consistita in un addestramento (training), cioè nell’esposizione ai dati, lungo e impegnativo in termini di tempo e capacità di calcolo, durante il quale il sistema ha appreso il vocabolario e le regole generali dell’italiano da un’enorme quantità di testi di natura varia, presi principalmente dalla rete e da Wikipedia, per un totale di circa 1 miliardo e mezzo di parole. Questo ha portato alla costruzione di un modello linguistico generale per l’italiano, il più preciso e avanzato in circolazione, basato su una tecnologia che si chiama [GPT-2](https://github.com/openai/gpt-2) che è al momento lo standard internazionale per questo tipo di intelligenze artificiali.
 
