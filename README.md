@@ -36,4 +36,4 @@ Grazie a questa seconda fase di addestramento, quindi, IAQOS ha potuto generaliz
 
 ## Ringraziamenti
 
-Il motore di intelligenza artificiale di IAQOS-ancona è stato ideato e realizzato da Andrea Zaninello ed è nato grazie alla collaborazione dei ricercatori Lorenzo De Mattei (Università di Pisa) e Gabriele Sarti (Università di Trieste - SISSA), a cui vanno i nostri ringraziamenti.
+Il motore di intelligenza artificiale di IAQOS-ancona è stato ideato e realizzato da Andrea Zaninello grazie alla collaborazione dei ricercatori [Lorenzo De Mattei](https://github.com/LoreDema) (Università di Pisa) e [Gabriele Sarti](https://github.com/gsarti) (Università di Trieste - SISSA), a cui vanno i nostri ringraziamenti.
